@@ -22,7 +22,7 @@ I'm a passionate software developer with strong skills in Android development, K
 
 3. **The Professional's Language (TPL):**
 
-    [The Professional's Language](https://github.com/Tanish-Ranjan/TPL) or [TPL](https://github.com/Tanish-Ranjan/TPL) is a dynamically typed language, multi-threaded, memory safe, garbage collected, multi-paradigm programming language with high level simplicity. It features a customizable interpreter and kotlin code injection.
+    [The Professional's Language](https://github.com/Tanish-Ranjan/TPL) or [TPL](https://github.com/Tanish-Ranjan/TPL) is a dynamically typed, multi-threaded, memory safe, garbage collected, multi-paradigm programming language with high level simplicity. It features a customizable interpreter and kotlin code injection.
 
 ## 💼 Past Work
 
