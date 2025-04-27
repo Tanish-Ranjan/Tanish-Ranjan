@@ -2,7 +2,7 @@
 
 I'm a passionate software developer with strong skills in Android development, Kotlin and Jetpack Compose with a desire to learn and create innovative solutions to real-world problems. I'm currently a high school graduate who actively creates Android development tutorials on my [YouTube channel](https://www.youtube.com/@tanishranjan) and freelances Android projects.
 
-[Learn More](https://tanishranjan-portfolio.web.app/about.html)
+[Learn More](https://www.tanishranjan.me/about)
 
 ## ⭐ My Achievements
 
